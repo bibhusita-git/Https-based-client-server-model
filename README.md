@@ -23,7 +23,7 @@ The browser extension adds a popup interface that allows users to input URLs the
 
 ### Server (Server-Side)
 
-The server component, built with Node.js and Express, receives blocklist data from the browser extension and stores it in a JSON file. It provides an API endpoint for the client to update the blocklist, ensuring consistency across different browser instances.
+The https server, built with Node.js and Express, receives blocklist data from the browser extension and stores it in a JSON file. It provides an API endpoint for the client to update the blocklist, ensuring consistency across different browser instances.
 
 ## Installation and Usage
 
