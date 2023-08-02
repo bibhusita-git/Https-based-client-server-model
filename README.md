@@ -60,7 +60,7 @@ The server will be running on https://localhost:443.
 
 Blocked URLs will be synchronized across multiple browser instances using the server.
 
-## Contributions
+## Contributing
 
 Contributions are welcome! If you find any bugs or want to add new features, please open an issue or submit a pull request.
 
